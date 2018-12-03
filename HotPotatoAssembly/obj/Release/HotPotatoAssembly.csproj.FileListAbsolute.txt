@@ -1,0 +1,6 @@
+D:\KTANE modding\Hot Potato\Assets\Plugins\Managed\HotPotatoAssembly.dll
+D:\KTANE modding\Hot Potato\Assets\Plugins\Managed\HotPotatoAssembly.pdb
+D:\KTANE modding\Hot Potato\HotPotatoAssembly\obj\Release\HotPotatoAssembly.csproj.CoreCompileInputs.cache
+D:\KTANE modding\Hot Potato\HotPotatoAssembly\obj\Release\HotPotatoAssembly.dll
+D:\KTANE modding\Hot Potato\HotPotatoAssembly\obj\Release\HotPotatoAssembly.pdb
+D:\KTANE modding\Hot Potato\HotPotatoAssembly\obj\Release\HotPotatoAssembly.csprojAssemblyReference.cache
